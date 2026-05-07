@@ -42,7 +42,7 @@ M.S. Computer Science graduate with hands-on experience in full-stack web develo
 
 - 📧 lucia.moradiaz99@gmail.com
 - 📞 270.572.5818
-- 🌐 [Portfolio](luciamora99.github.io/portfolio)
+- 🌐 [Portfolio](https://luciamora99.github.io/portfolio/)
 
 ---
 
